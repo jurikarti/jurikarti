@@ -1,6 +1,0 @@
-def proeverka(s):
-    if s[1] == "а":
-        return True
-    else:
-        return False
-print (proeverka("?ал?ш"))
