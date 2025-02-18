@@ -1,4 +1,4 @@
 # Jurikarti
 - qq, my name is Dmitry
-- Learning to code in Python
-- I am also interested in telegram bots, modeling, Web, Ai, Unreal Engine
+- React native/ node js/ django/ go/ python
+- I am also interested in telegram bots, modeling, Web, Ai, Unreal Engine 4-5
