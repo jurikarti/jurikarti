@@ -1,4 +1,4 @@
 # Jurikarti
 - qq, my name is Dmitry
-- React native/ node js/ django/ go/ python
-- I am also interested in telegram bots, modeling, Web, Ai, Unreal Engine 4-5
+- React native/ django/ keystone/ aiogram/ backend-go/ python
+- I am interested in tg bots, backend, Unreal Engine 4-5
